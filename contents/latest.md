@@ -13,7 +13,7 @@ citecolor: blue
 ---
 
 
-# 10 August, 2025
+## 10 August, 2025
 
 ![Figure 1](images/10-aug-25-trapezium.png)
 
