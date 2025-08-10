@@ -24,6 +24,9 @@ It is known that the products of the areas of two pairs of these triangles are $
 - Determine the maximum possible area of the trapezium $ABCD$.
 - Find $\dfrac{DC}{AB}$.
 
+
+*Note:* $AD$ and $BC$ might not be equal, unlike what one might infer from the image.
+
 **Submission:** [Google forms](https://forms.gle/HEaLHSbx46GBVTS6A)
 
 **Deadline:** 17 August, 2025.
