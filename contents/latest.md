@@ -13,16 +13,20 @@ citecolor: blue
 ---
 
 
-# Previous
+# 10 August, 2025
 
-You have to completely fill a $1 \times 1$ square and you can only use rectangles of side ratio $1:2$ - you can have rectangles of any size, as long as the ratio of their side lengths is $1:2$. Find all $n \in\mathbb N$ such that you can use $n$ rectangles to make such a square.
+![Figure 1](images/10-aug-25-trapezium.png)
 
-**Submission:** Send your solution on the [WhatsApp group](https://en.wikipedia.org/wiki/Cat).
+Let $ABCD$ be a trapezium with $AB \parallel CD$ and diagonals $AC$ and $BD$ intersecting at $O$. The areas of the triangles $\triangle AOB$, $\triangle BOC$, $\triangle COD$, and $\triangle AOD$ are all integers.
 
+It is known that the products of the areas of two pairs of these triangles are $576$ and $1296$, respectively.
 
-# Latest
+- Determine the maximum possible area of the trapezium $ABCD$.
+- Find $\dfrac{DC}{AB}$.
 
-_Coming soon..._
+**Submission:** [Google forms](https://forms.gle/HEaLHSbx46GBVTS6A)
+
+**Deadline:** 17 August, 2025.
 
 
 $$\Huge\varnothing$$

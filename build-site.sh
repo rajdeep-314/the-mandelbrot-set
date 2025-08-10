@@ -15,6 +15,8 @@ pandoc -s contents/leaderboard.md -o _site/leaderboard.html --mathjax=https://cd
 pandoc -s contents/latest.md -o _site/latest.html --mathjax=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 # archive.md - archive of past questions.
 pandoc -s contents/archive.md -o _site/archive.html --mathjax=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-# mandelbrot-set.png - image of the Mandelbrot Set.
-cp contents/mandelbrot-set.png _site/mandelbrot-set.png
+
+# Copying images.
+mkdir -p _site/images
+cp -r contents/images/* _site/images/
 

@@ -35,7 +35,7 @@ $$ f_{n + 1}(z) := f_n(z)^2 + z \qquad \forall n \in\mathbb N$$
 
 Here's an image of the Mandelbrot Set that we generated for one of our workshops using [pygame](https://www.pygame.org/).
 
-![Mandelbrot Set](mandelbrot-set.png)
+![Mandelbrot Set](images/mandelbrot-set.png)
 
 
 ## The core team
