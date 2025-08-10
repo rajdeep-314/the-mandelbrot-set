@@ -1,4 +1,4 @@
-[![Deploy to GitHub Pages](https://github.com/rajdeep-314/pages-testing/actions/workflows/publish.yml/badge.svg?branch=main)](https://github.com/rajdeep-314/pages-testing/actions/workflows/publish.yml)
+[![Deploy to GitHub Pages](https://github.com/rajdeep-314/the-mandelbrot-set/actions/workflows/publish.yml/badge.svg?branch=main)](https://github.com/rajdeep-314/the-mandelbrot-set/actions/workflows/publish.yml)
 
 # The Mandelbrot Set
 
