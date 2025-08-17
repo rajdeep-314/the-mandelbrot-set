@@ -43,13 +43,13 @@ Here's an image of the Mandelbrot Set that we generated for one of our workshops
 ### Leads
 
 - **Rajdeep**: Mathematics lead
-- **Raagam**: Mathematics lead
-- **Hemanth**: Linguistics lead
+- **Raagam Parmar**: Mathematics lead
+- **Hemanth Kashyap**: Linguistics lead
 
 ### Content creators
 
-- **Anant**
-- **Satyam**
+- **Anant Jain**
+- **Satyam Rao**
 - **Sri Krishna**
 
 ### PhD representative
