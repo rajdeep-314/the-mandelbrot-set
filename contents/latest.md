@@ -17,7 +17,7 @@ citecolor: blue
 
 ![Figure 1](images/10-aug-25-trapezium.png)
 
-Let $ABCD$ be a trapezium with $AB \parallel CD$ and diagonals $AC$ and $BD$ intersecting at $O$. The areas of the triangles $\triangle AOB$, $\triangle BOC$, $\triangle COD$, and $\triangle AOD$ are all integers.
+Let $ABCD$ be a trapezium with $AB \parallel CD$ and diagonals $AC$ and $BD$ intersecting at $O$. The areas of the triangles $\triangle AOB$, $\triangle BOC$, $\triangle COD$, and $\triangle AOD$ are all non-integers.
 
 It is known that the products of the areas of two pairs of these triangles are $576$ and $1296$, respectively.
 
