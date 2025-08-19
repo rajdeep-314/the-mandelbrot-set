@@ -12,6 +12,28 @@ toccolor: blue
 citecolor: blue
 ---
 
+
+## 10 August, 2025
+
+### Statement
+
+![](images/10-aug-25-trapezium.png)
+
+Let $ABCD$ be a trapezium with $AB \parallel CD$ and diagonals $AC$ and $BD$ intersecting at $O$. The areas of the triangles $\triangle AOB$, $\triangle BOC$, $\triangle COD$, and $\triangle AOD$ are all non-integers.
+
+It is known that the products of the areas of two pairs of these triangles are $576$ and $1296$, respectively.
+
+- Determine the maximum possible area of the trapezium $ABCD$.
+- Find $\dfrac{DC}{AB}$.
+
+*Note:* $AD$ and $BC$ need not be equal, unlike what one might infer from the image.
+
+### Solution
+
+_Coming soon..._
+
+
+
 ## Rectangles in a Square
 
 ### Statement
